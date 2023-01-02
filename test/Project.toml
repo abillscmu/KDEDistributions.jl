@@ -1,0 +1,8 @@
+[deps]
+AdvancedHMC = "0bf59076-c3b1-5ca4-86bd-e02cd72cde3d"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+DynamicHMC = "bbc10e6e-7c05-544b-b16e-64fede858acb"
+KernelDensity = "5ab0869b-81aa-558d-bb23-cbf5423bbe9b"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
